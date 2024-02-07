@@ -1,4 +1,4 @@
-# Inventory Management Setup Guide
+# Inventory / Purchase Business Case
 
 This guide provides step-by-step instructions for setting up inventory management within your system.
 
