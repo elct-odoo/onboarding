@@ -48,6 +48,3 @@ This guide provides step-by-step instructions for setting up inventory managemen
 - **Scheduler**: Run Scheduler after configuring reordering rules to ensure proper scheduling of tasks.
 - **Multi-Step Routes**: If necessary, configure multi-step routes for specific products.
 - **Variants**: Utilize variants for products with different attributes or pricing options.
-
-Please follow these instructions carefully to ensure smooth setup and management of your inventory system.
-
