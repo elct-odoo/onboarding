@@ -7,16 +7,19 @@ This guide provides step-by-step instructions for setting up inventory managemen
 1. **Create Two Vendors**
    
 2. **Set Cost and Lead Time for Products**
-   - Navigate to the "Products and Purchase" Tab
+   - Navigate to the product
+   - "Purchase" Tab and set the fields
 
 3. **Configure Reordering Rules in Inventory App**
    - Access the Inventory App > Configuration
+   - Enable reordering rules if needed I think they are on though
    - Enable Development Mode
    - Run Scheduler
 
 4. **Configure Dropship**
    - Enable Dropship in Inventory Configuration
-   - Remove Make to Order (MTO) and Buy options from Product Inventory Tab, toggle Dropship
+   - Remove Make to Order (MTO) and Buy options from Product Inventory Tab, if they are checked
+   - Toggle Dropship
 
 5. **Configure Multi-Step Routes**
    - Enable Multistep Routes in Inventory Configuration
@@ -29,9 +32,10 @@ This guide provides step-by-step instructions for setting up inventory managemen
    - Set Cost to 1000
 
 8. **Turn on Variants**
+   - Toggle in configs
    - Create Variants and Set Pricing
 
-9. **Configure Traceability**
+10. **Configure Traceability**
    - Create Two Items: "Drone Lights" and "Waterproof Cameras"
    - Navigate to Configuration
    - Under Traceability, enable Tracking by Lot and Serial Number
