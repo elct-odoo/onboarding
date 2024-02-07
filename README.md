@@ -26,7 +26,7 @@ This guide provides step-by-step instructions for setting up inventory managemen
    - Unarchive Make to Order (MTO) in Routes
    - Turn on MTO Multi-Step Routes in Product Inventory Tab
 
-6. **Set Items to Consumables**
+6. **Set New Items to Consumables**
 
 7. **Create Product "Drone 3.0"**
    - Set Cost to 1000
