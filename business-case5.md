@@ -30,3 +30,9 @@ This guide outlines the steps to configure and automate subscription management 
 1. Subscriptions are typically created via a Sales Order.
 2. Configure Sales Orders to automatically create subscriptions for customers.
 
+## Steo 5: We need to install a payment provider
+
+1. In the `Sales` app, navigate to `Configuration` and select `Payment Provider`
+2. In this demo we will use `Authorize.net`
+3. Activate your payment provider
+4. From there you can set up `Automatic Payments`
