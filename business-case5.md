@@ -36,3 +36,4 @@ This guide outlines the steps to configure and automate subscription management 
 2. In this demo we will use `Authorize.net`
 3. Activate your payment provider
 4. From there you can set up `Automatic Payments`
+5. 
