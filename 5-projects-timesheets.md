@@ -37,12 +37,13 @@
 1. **Unit of Measurement (UoM) Configuration:**
 
    Navigate to Inventory > Configuration > UoM Categories:
-   
-   Create a 25 Hour Pack:
-   
-   - Line 1: UoM: Hour (Type: Reference Unit of Measure for this category)
-   - Line 2: 25 Hours (Type: Bigger than the reference Unit of Measure, Ratio: 25)
+   Select `Working Time`
+   Add a line:
+   Unit of Measure: `25 Hour Pack`
+   Type: `Bigger than the reference Unit of Measure`
+   Ratio: `=25/8`
 
+   Now when we add a product with this UoM it will autopopulate the Sales Order.
 ---
 
 This setup guide outlines the steps to configure projects, products, and tasks within the Odoo environment for efficient project management and billing. The creation of tasks from Sales Orders is integrated into Step 3 for streamlined setup.
