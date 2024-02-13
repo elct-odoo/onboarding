@@ -22,4 +22,8 @@ Welcome to the Onboarding repository! This repository contains detailed guides a
 
 - [Projects & Timesheets Guide](5-projects-timesheets.md): This guide provides instructions for managing projects and tracking timesheets accurately.
 
+## 6. Helpdesk & Website
+
+- [Helpdesk & Website Guide](6-helpdesk-website.md): This guide offers detailed instructions on setting up and managing the helpdesk system and eCommerce website. Learn how to provide excellent customer support and optimize your online store for maximum efficiency.
+
 Feel free to explore each guide to learn more about the specific business case and its associated processes. Please note that as a new hire, there may be better processes that I have yet to discover. Don't hesitate to ask questions, suggest improvements, or seek clarification from your colleagues or supervisors.
