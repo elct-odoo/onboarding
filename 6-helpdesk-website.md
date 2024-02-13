@@ -12,7 +12,7 @@
 - Check the Email Alias checkbox and set up a domain, e.g., support@demo-db.odoo.com.
 - Check return, refunds, and coupons.
 
-## Setting up Drone Maintenance Pipeline Automations
+## Step 3: Setting up Drone Maintenance Pipeline Automations
 
 1. Navigate to the Drone Maintenance pipeline.
 2. Select the gear icon on the `Solved` stage and choose `Automations`.
@@ -23,24 +23,24 @@
    - Type: `Send Email`
    - Email Template: `Helpdesk Ticket Rating Request`
 
-## Setting Up eCommerce
+## Step 4: Setting Up eCommerce
 
 1. Navigate to Website > Configuration > Settings > Configure Payment Providers.
 2. Input the given credentials.
 
-## Configuring Products
+## Step 5: Configuring Products
 
 1. Ensure that the Product Type is set to `Storable Product`.
 2. In the sales tab, toggle the Out-of-stock Continue selling checkbox.
 
-## Publishing Products
+## Step 6: Publishing Products
 
 1. Navigate to Website > Site > Products.
 2. In the list view, publish products in bulk:
    - Select the products.
    - Use the `Actions` gear icon and select publish.
   
-## eCommerce Categories
+## Step 7: eCommerce Categories
 
 1. Navigate to Website > eCommerce Categories.
 2. Add two new categories: Drones & Accessories.
