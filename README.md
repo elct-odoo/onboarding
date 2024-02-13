@@ -1,4 +1,4 @@
-# Onboarding Repository
+# Odoo's Onboarding Repository
 
 Welcome to the Onboarding repository! This repository contains detailed guides and documentation for various business cases. Below is a list of each business case along with its corresponding guide:
 
