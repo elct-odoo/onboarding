@@ -36,12 +36,12 @@
 
 1. **Unit of Measurement (UoM) Configuration:**
 
-   Navigate to Inventory > Configuration > UoM Categories:
-   Select `Working Time`
-   Add a line:
-   Unit of Measure: `25 Hour Pack`
-   Type: `Bigger than the reference Unit of Measure`
-   Ratio: `=25/8`
+   - Navigate to Inventory > Configuration > UoM Categories:
+   - Select `Working Time`
+   - Add a line:
+   - Unit of Measure: `25 Hour Pack`
+   - Type: `Bigger than the reference Unit of Measure`
+   - Ratio: `=25/8`
 
    Now when we add a product with this UoM it will autopopulate the Sales Order.
 ---
