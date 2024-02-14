@@ -15,7 +15,7 @@
 
    Which we should create now: We now have a new contact Drone Vendor which we will purchase all of our non-manufactured products such as our accessories and drone components.
 
-# Let’s also set up our prices and costs for each product: 
+### Let’s also set up our prices and costs for each product: 
    
 - For manufactured products we can add a cost to a component and the parent product `Cost` can be computed from our BoM.
 
