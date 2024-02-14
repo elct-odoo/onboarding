@@ -21,6 +21,7 @@
 ## 3. Product Categorization:
    - This step isn’t completely necessary but I wanted to show you how we can categorize our products. I’ll keep it simple and create two product categories: Drones and Drone Accessories. Now each product can be put in one of these boxes.
 
+## Additional Product Template Steps:
    Let’s also set up our prices and costs for each product. For manufactured products we can add a cost to a component and the parent product `Cost` can be computed from our BoM.
 
    However for the components that we purchase we need to create a vendors price list and set the cost to the corresponding purchase price.
