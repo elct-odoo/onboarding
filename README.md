@@ -30,6 +30,6 @@ Welcome to the Onboarding repository! This repository contains detailed guides a
 - [Studio Guide](7-studio.md): This guide provides instructions on modifying existing applications with Studio. Learn how to tweak Odoo's application for your business's needs.
 
 ## DEMOS
-- [DroneZone Demo](dropzone-demo/database-config.md)
+- [DroneZone Demo](dropzone-demo/database-config.md): This is a database configuration for a client named DroneZone 2.0.
 
 Feel free to explore each guide to learn more about the specific business case and its associated processes. Please note that as a new hire, there may be better processes that I have yet to discover. Don't hesitate to ask questions, suggest improvements, or seek clarification from your colleagues or supervisors.
