@@ -30,7 +30,8 @@
    - VIP - 15% discount for VIP customers.
    - Composite VIP Seasonal Discount - 5% discount for VIPs.
 
-## 5. Create Two Sales Teams: B2B and B2C and assign our team leads.
+## 5. Create Two Sales Teams: 
+   - B2B and B2C and assign our team leads.
 
 ## 6. User Creation:
    - We will also create a user with limited access that will be our intern. While creating the user we have an abundance of access rights for our business needs. In our case, we will have to remove administrative access rights from all apps. For this demo I will not create a User for every employee instead I will create two team leads and an intern for a total of 4 users (including my own which will serve as you David).
