@@ -1,8 +1,8 @@
 # Order of Operations for DroneZone 2.0 Implementation
 
 ## 1. Creating Drones:
-   - Create 5 drones (Drone A-E) in Odoo.
-   - Set them up for sale under the `Inventory` tab, selecting only the `manufacture` route, not the `buy` route. Since we will not be purchasing these from a vendor.
+   - Create 5 drones (Drone A-E) in Odoo. Set these to `Can be Sold` and not `Can be Purchased` since we manufacture these ourselves
+   - In the`Inventory` tab of our product, select only the `Manufacture` route, not the `Buy` route. Since we will not be purchasing these from a vendor.
    
    **Bill of Materials (BoM) for Drones:**
    - Drone A: BoM Drone Battery, Drone Blade, Drone Plastic Structure, Drone Engine A
@@ -15,18 +15,19 @@
 
    Which we should create now: We now have a new contact Drone Vendor which we will purchase all of our non-manufactured products such as our accessories and drone components.
 
+# Let’s also set up our prices and costs for each product: 
+   
+- For manufactured products we can add a cost to a component and the parent product `Cost` can be computed from our BoM.
+
+- For the components that we purchase we need to create a vendors price list and set the cost to the corresponding purchase price.
+
 ## 2. Creating Drone Accessories:
-   - Create Drone Case and Float Kit as accessories in Odoo.
+   - Create Drone Case and Float Kit as Drone Accessories in Odoo.
    - An important disctinction here is to toggle `Can be Sold` and `Can be Purchased` since we don't manufacture these items but we purchase them from a `Vendor`
    - Once `Purchase` is toggled we can go to the `Purchase` tab on the product and add our vendor price list which is how much it costs to buy from said vendor.
 
-## Additional Product Template Steps:
-- Let’s also set up our prices and costs for each product. For manufactured products we can add a cost to a component and the parent product `Cost` can be computed from our BoM.
-
 ## 3. Product Categorization:
    - This step isn’t completely necessary but I wanted to show you how we can categorize our products. I’ll keep it simple and create two product categories: `Drones` and `Drone Accessories`. Now each product can be put in one of these boxes.
-
-   However for the components that we purchase we need to create a vendors price list and set the cost to the corresponding purchase price.
 
 ## 4. Price Lists:
    - 10% seasonal increase - We can select time frames for the month of July and December and a negative discount to increase our sales prices.
