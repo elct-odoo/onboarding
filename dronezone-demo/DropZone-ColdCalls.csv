@@ -1,0 +1,6 @@
+name,is_company,company_name,country_id,state_id,zip,city,street,phone,email,tags
+John Smith,1,SkyTech Solutions,US,New York,11719,Brookhaven,123 Hopkins Rd,(516) 123-4566,josi@skytech.com,B2B
+Sarah Johnson,1,AeroWorks,US,New York,11777,Port Jefferson,456 Hastings Drive,(631) 987-2524,sajo@aeroworks.com,B2C
+Michael Brown,1,AeroDynamics,US,New York,11937,East Hampton,234 Clairemont Ave,(516) 262-5453,mibr@aerodynamics.com,B2B
+Emily Davis,1,FlyHigh Technologies,US,New York,11713,Bellport ,231 Walnut St,(631) 442-2344,emda@flyhigh.com,B2C
+David Lee,1,AirSpace Innovations,US,New York,11772,Patchogue,153 Rudolph Pl,(516) 039-2345,dele@airspace.com,B2B
