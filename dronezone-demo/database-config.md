@@ -23,14 +23,12 @@
 **Let’s also set up our prices and costs for each of these products:**
    
 - For manufactured products we can add a cost to a component and the parent product `Cost` can be computed from our BoM.
-
 - For the components that we purchase we need to create a vendors price list and set the cost to the corresponding purchase price.
   
 ## 3. Reordering Rules:
 - Inventory > Configuration > Reordering Rules
 - For the components or accessories that we purchase and keep in stock we can select the `Buy` `Route` and set our minimum and maximum
-- For the Drones we manufacture we can select `Manufacture` `Route` and set a `Minimum: 0` and `Maximum: 0`. This way the items won't be manufactured until the `On Hand` dips below 0/
-
+- For the Drones we manufacture we can select `Manufacture` `Route` and set a `Minimum: 0` and `Maximum: 0`. This way the items won't be manufactured until the `On Hand` dips below 0.
 
 ## 4. Product Categorization:
    - This step isn’t completely necessary but I wanted to show you how we can categorize our products. I’ll keep it simple and create two product categories: `Drones` and `Drone Accessories`. Now each product can be put in one of these boxes.
