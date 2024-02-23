@@ -52,8 +52,6 @@
 
 - Set the sales price
 
-- Recurring Price (Monthly): $50 (Default USD pricelist)
-
 - Link Email Support as an optional product
 
 ### Ultimate Pack
